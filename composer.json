@@ -10,7 +10,8 @@
         {"name": "Johannes Papst", "email": "info@iit-online.de"}
     ],
     "require": {
-        "php": ">=7.0"
+        "php": ">=7.0",
+        "ddeboer/imap": "*"
     },
     "config": {
         "sort-packages": true
